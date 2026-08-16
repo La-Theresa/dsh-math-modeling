@@ -1,0 +1,22 @@
+# Math modeling workbench Python dependencies
+# Core math stack
+numpy
+scipy
+sympy
+matplotlib
+pandas
+
+# Data / document ingestion commonly needed in math modeling contests
+openpyxl        # xlsx read/write
+xlrd            # legacy .xls read
+pypdf           # PDF text extraction
+pdfplumber      # PDF tables and richer extraction
+
+# Statistical / data-driven comparison models (optional but recommended)
+statsmodels
+scikit-learn
+
+# Jupyter workbench
+jupyter
+nbformat
+ipykernel

@@ -1,0 +1,3 @@
+name: Math Modeling (experimental)
+description: Math Modeling preset based on dsh-anchored-standard. Keeps the Minimal first-round anchor, then promotes to math_code (numpy/scipy/sympy/matplotlib/pandas/openpyxl/pypdf/pdfplumber/statsmodels/sklearn), discovery tools, background jobs, and a rigorous math protocol covering boundary inversion, Pareto optimization, solver validation, and reproducible delivery.
+order: 8
